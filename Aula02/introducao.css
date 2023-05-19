@@ -1,0 +1,21 @@
+/* Introduçao ao CSS - Declaração */ 
+/* Efeito Cascata 
+    - Esse efeito define qual regra será aplicada quando há mais de um estilo especificando
+    para o mesmo elemento HTML. 
+    Neste caso ele seguirá o padrão abaixo: 
+
+    1- Estilo padrão do navegador 
+    2- Folha de Estilo Externa (referenciada e/ou importada) 
+    3- Folha de Estilo Interna (definida na área de cabecalho do documento) 
+    4- Folha de Estilo Inline (dentro do HTML) 
+
+*/ 
+
+/* REGRAS CSS */
+/*  Um declaração com sintaxe própria que indica como será o estilo de um ou mais 
+elementos HTML. 
+Um conjunto de regras CSS formam uma Folha de Estilos. É composta por: 
+um seletor, uma propriedade e um valor. 
+
+p (seletor) { color: (propriedade) #00000 (valor); font-size (propriedade): 20px; (valor) 
+*/  
